@@ -59,4 +59,4 @@ buck-out/
 /ios/Pods/
 
 # Config
-/src/config/congif.js
+config.js

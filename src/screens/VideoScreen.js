@@ -2,7 +2,7 @@ import React from 'react';
 import { StyleSheet, View, Dimensions } from 'react-native';
 // Youtube Package
 import YouTube from 'react-native-youtube';
-import { API_KEY } from '../config/config';
+import { API_KEY } from '../../config';
 
 const {width, height} = Dimensions.get('window');
 
